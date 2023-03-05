@@ -1,6 +1,6 @@
 ## Olá! Eu sou Thallis 👋
 
-- 🌱 Estou atualmente estudando JavaScript
+- 🌱 Estou atualmente fazendo faculdade de Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
 
 ##
