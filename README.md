@@ -1,6 +1,6 @@
-## Olá! Eu sou Thallis 👋
+## Bom dia! Eu sou Thallis 👋
 
-- 🌱 Estou atualmente fazendo faculdade de Análise e Desenvolvimento de Sistemas
+- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
 
 ##
