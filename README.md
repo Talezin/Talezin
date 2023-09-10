@@ -1,6 +1,6 @@
 ## Bom dia! Eu sou Thallis 👋
 
-- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Atualmente estou cursando Bacharel em Ciencias e Tecnologias
 - 😄 Pronouns: ele/dele
 
 ##
