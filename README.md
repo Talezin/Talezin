@@ -1,12 +1,12 @@
 ## Bom dia! Eu sou Thallis 👋
 
-- 🌱 Atualmente estou cursando Bacharel em Ciencias e Tecnologias
+- 🌱 Atualmente estou cursando Bacharelado em Ciencias e Tecnologias e Ciencia da Computação
 - 😄 Pronouns: ele/dele
 
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thallis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thallis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thallis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thallis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thallis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
